@@ -1,7 +1,7 @@
 # HowToUploadYourProjectToGithub
 To Upload Your Folder Project To Github
 
-1.  You must install git first
+1.  You must install git first https://git-scm.com/
 2.  Open cmd or git bash and make sure path of your cmd or git bash in directory project/file you want to upload/push
 3.  Git config --global user.name "username anda" 
 4.  Git config --global user.email isi_dengan_email_anda@ymail.com 
